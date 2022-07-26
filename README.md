@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maximiliano Silva. I´m an Argentinian living in Ecuador.
-- 👀 I’m interested in tech, e-sports. 
+- 👀 I’m interested in Web development. 
 - 🌱 I’m currently learning HTML CSS and JS.-
 - 💞️ I’m looking to collaborate on startups.-
 - 📫 How to reach me:
